@@ -2,7 +2,24 @@
 
 <h1 align="center">Amanda Carolina</h1>
 
-<p align="center"><code>Analista de Sistemas | Engenharia de Dados na Infnet</code></p>
+```python
+@dataclass
+class SobreMim:
+
+    nome: str = "Amanda Carolina"
+
+    cargo: str = "Analista de Sistemas"
+
+    estudando: str = "Engenharia de Dados (Infnet)"
+
+    stack: List[str] = field(
+        default_factory=lambda: [
+            "Python", "C#", ".NET", "Power BI", "Git"
+        ]
+    )
+
+    objetivo: str = "Engenharia de Dados"
+```
 
 Sou analista de sistemas em uma empresa do setor lotérico, em Belo Horizonte, e curso Engenharia de Dados na Infnet.
 
