@@ -14,7 +14,8 @@ class SobreMim:
 
     stack: List[str] = field(
         default_factory=lambda: [
-            "Python", "SQL", "C#", ".NET", "Power BI", "Git"
+            "Python", "SQL", "C#", ".NET",
+            "Power BI", "Power Apps", "Git"
         ]
     )
 
@@ -26,7 +27,7 @@ class SobreMim:
 **Analista de sistemas** e estudante de **Engenharia de Dados** na Infnet. Comecei na logística, passei a analista e fui para a tecnologia, onde hoje trabalho junto do time de dados com **Python**, **SQL** e **Power BI**.
 
 - **Hoje:** analista de sistemas em uma empresa do setor lotérico, em Belo Horizonte.
-- **Já fiz:** dashboards em Power BI nas empresas por onde passei. O mais recente é um painel completo de KPIs da logística (estoque, giro, entregas e prazos), que não posso mostrar por usar dados internos.
+- **Já fiz:** dois aplicativos internos em Power Apps, um de logística (pedidos e estoque dos consultores de campo) e um de controle de fluxo de caixa, e dashboards em Power BI nas empresas por onde passei. O mais recente é um painel completo de KPIs da logística (estoque, giro, entregas e prazos). Por usarem dados internos, nenhum deles pode ser publicado aqui.
 - **Formação:** Engenharia de Dados na Infnet. Na Rocketseat, concluí Lógica de Programação e sigo na formação de Back-End (C# e .NET).
 - **Objetivo:** atuar como engenheira de dados, construindo pipelines que façam os dados chegarem certos a quem precisa deles.
 
@@ -36,7 +37,8 @@ class SobreMim:
   <img src="https://skillicons.dev/icons?i=python,cs,dotnet,git,github,vscode&theme=dark" alt="Python, C#, .NET, Git, GitHub e VS Code" />
   <br><br>
   <img src="https://img.shields.io/badge/SQL-E8508A?style=for-the-badge" alt="SQL" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge" alt="Power Apps" />
 </p>
 
 ## Projetos
