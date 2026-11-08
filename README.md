@@ -21,11 +21,14 @@ class SobreMim:
     objetivo: str = "Engenharia de Dados"
 ```
 
-Sou analista de sistemas em uma empresa do setor lotérico, em Belo Horizonte, e curso Engenharia de Dados na Infnet.
+## Sobre
 
-Comecei na empresa pela logística, passei a analista e fui para a área de tecnologia, onde hoje trabalho junto do time de dados. Já montei dashboards em Power BI nas empresas por onde passei. O mais recente foi na empresa atual: um painel completo de KPIs da logística, com estoque, giro, entregas e prazos. Esse eu não consigo mostrar aqui, porque usa dados internos da empresa.
+**Analista de sistemas** e estudante de **Engenharia de Dados** na Infnet. Comecei na logística, passei a analista e fui para a tecnologia, onde hoje trabalho junto do time de dados com **Python**, **SQL** e **Power BI**.
 
-Gosto de back-end e de entender como os dados circulam por trás de cada processo. Mas quero ir mais longe: meu objetivo é atuar como engenheira de dados, construindo pipelines e sistemas que façam esses dados chegarem certos a quem precisa deles.
+- **Hoje:** analista de sistemas em uma empresa do setor lotérico, em Belo Horizonte.
+- **Já fiz:** dashboards em Power BI nas empresas por onde passei. O mais recente é um painel completo de KPIs da logística (estoque, giro, entregas e prazos), que não posso mostrar por usar dados internos.
+- **Formação:** Engenharia de Dados na Infnet. Na Rocketseat, concluí Lógica de Programação e sigo na formação de Back-End (C# e .NET).
+- **Objetivo:** atuar como engenheira de dados, construindo pipelines que façam os dados chegarem certos a quem precisa deles.
 
 ## Tecnologias
 
@@ -35,11 +38,6 @@ Gosto de back-end e de entender como os dados circulam por trás de cada process
   <img src="https://img.shields.io/badge/SQL-E8508A?style=for-the-badge" alt="SQL" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
 </p>
-
-## O que tenho estudado
-
-- **Engenharia de Dados** na Infnet
-- **Python e C#** na Rocketseat. Concluí a formação de Lógica de Programação e sigo na de Back-End, com micro-certificados em Fundamentos de C# e Fundamentos do .NET
 
 ## Projetos
 
