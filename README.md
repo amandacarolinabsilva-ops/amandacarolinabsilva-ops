@@ -14,7 +14,7 @@ class SobreMim:
 
     stack: List[str] = field(
         default_factory=lambda: [
-            "Python", "SQL", "C#", ".NET",
+            "Python", "SQL (MySQL)", "C#", ".NET",
             "Power BI", "Power Apps", "Git"
         ]
     )
@@ -34,10 +34,11 @@ class SobreMim:
 ## Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cs,dotnet,git,github,vscode&theme=dark" alt="Python, C#, .NET, Git, GitHub e VS Code" />
-  <br><br>
-  <img src="https://img.shields.io/badge/SQL-E8508A?style=for-the-badge" alt="SQL" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logoColor=black" alt="Power BI" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,cs,dotnet,git,github,vscode&theme=dark" alt="Python, MySQL, C#, .NET, Git, GitHub e VS Code" />
+</p>
+
+<p align="center"><sub>Microsoft Power Platform</sub><br>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge" alt="Power BI" />
   <img src="https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge" alt="Power Apps" />
 </p>
 
