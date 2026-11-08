@@ -2,7 +2,7 @@
 
 Sou analista de sistemas em uma empresa do setor lotérico, em Belo Horizonte, e curso Engenharia de Dados na Infnet.
 
-Comecei na empresa pela logística, passei a analista e fui para a área de tecnologia, onde hoje trabalho junto do time de dados. Gosto de back-end, de automação e de entender como os dados circulam por trás de cada processo. Mas quero ir mais longe: meu objetivo é atuar como engenheira de dados, construindo pipelines e sistemas que façam esses dados chegarem certos a quem precisa deles.
+Comecei na empresa pela logística, passei a analista e fui para a área de tecnologia, onde hoje trabalho junto do time engenharia de dados. Gosto de back-end, de automação e de entender como os dados circulam por trás de cada processo. Mas quero ir mais longe: meu objetivo é atuar como engenheira de dados, construindo pipelines e sistemas que façam esses dados chegarem certos a quem precisa deles.
 
 ## O que tenho estudado
 
