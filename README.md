@@ -1,10 +1,22 @@
-# Amanda Carolina
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=0:E8508A,100:6A1B9A"/>
+
+<h1 align="center">Amanda Carolina</h1>
+
+<p align="center"><code>Analista de Sistemas | Engenharia de Dados na Infnet</code></p>
 
 Sou analista de sistemas em uma empresa do setor lotérico, em Belo Horizonte, e curso Engenharia de Dados na Infnet.
 
 Comecei na empresa pela logística, passei a analista e fui para a área de tecnologia, onde hoje trabalho junto do time de dados. Já montei dashboards em Power BI nas empresas por onde passei. O mais recente foi na empresa atual: um painel completo de KPIs da logística, com estoque, giro, entregas e prazos. Esse eu não consigo mostrar aqui, porque usa dados internos da empresa.
 
 Gosto de back-end e de entender como os dados circulam por trás de cada processo. Mas quero ir mais longe: meu objetivo é atuar como engenheira de dados, construindo pipelines e sistemas que façam esses dados chegarem certos a quem precisa deles.
+
+## Tecnologias
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cs,dotnet,git,github,vscode&theme=dark" alt="Python, C#, .NET, Git, GitHub e VS Code" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+</p>
 
 ## O que tenho estudado
 
@@ -22,3 +34,5 @@ Gosto de back-end e de entender como os dados circulam por trás de cada process
 ## Contato
 
 [LinkedIn](https://www.linkedin.com/in/amanda-carolina-bs)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:E8508A,100:6A1B9A"/>
