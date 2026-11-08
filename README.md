@@ -14,7 +14,7 @@ class SobreMim:
 
     stack: List[str] = field(
         default_factory=lambda: [
-            "Python", "C#", ".NET", "Power BI", "Git"
+            "Python", "SQL", "C#", ".NET", "Power BI", "Git"
         ]
     )
 
@@ -32,6 +32,7 @@ Gosto de back-end e de entender como os dados circulam por trás de cada process
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cs,dotnet,git,github,vscode&theme=dark" alt="Python, C#, .NET, Git, GitHub e VS Code" />
   <br><br>
+  <img src="https://img.shields.io/badge/SQL-E8508A?style=for-the-badge" alt="SQL" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
 </p>
 
