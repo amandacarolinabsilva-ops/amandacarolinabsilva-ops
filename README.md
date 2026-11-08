@@ -26,6 +26,8 @@ class SobreMim:
 
 **Analista de sistemas** e estudante de **Engenharia de Dados** na Infnet. Comecei na logística, passei a analista e fui para a tecnologia, onde hoje trabalho junto do time de dados com **Python**, **SQL** e **Power BI**.
 
+Sou apaixonada por tecnologia e estou sempre atrás do próximo conhecimento. Ao mesmo tempo que faço a faculdade, sigo nas formações da Rocketseat e testo ferramentas por conta própria. Quando aprendo algo novo, procuro logo um jeito de aplicar no trabalho.
+
 - **Hoje:** analista de sistemas em uma empresa do setor lotérico, em Belo Horizonte.
 - **Já fiz:** dois aplicativos internos em Power Apps, um de logística (pedidos e estoque dos consultores de campo) e um de controle de fluxo de caixa, e dashboards em Power BI nas empresas por onde passei. O mais recente é um painel completo de KPIs da logística (estoque, giro, entregas e prazos). Por usarem dados internos, nenhum deles pode ser publicado aqui.
 - **Formação:** Engenharia de Dados na Infnet. Na Rocketseat, concluí Lógica de Programação e sigo na formação de Back-End (C# e .NET).
