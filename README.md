@@ -15,6 +15,7 @@ class SobreMim:
     stack: List[str] = field(
         default_factory=lambda: [
             "Python", "SQL (MySQL)", "C#", ".NET",
+            "HTML", "CSS", "JavaScript",
             "Power BI", "Power Apps", "Git"
         ]
     )
@@ -36,7 +37,7 @@ Sou apaixonada por tecnologia e estou sempre atrás do próximo conhecimento. Ao
 ## Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,cs,dotnet,git,github,vscode&theme=dark" alt="Python, MySQL, C#, .NET, Git, GitHub e VS Code" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,cs,dotnet,html,css,js,git,github,vscode&theme=dark" alt="Python, MySQL, C#, .NET, HTML, CSS, JavaScript, Git, GitHub e VS Code" />
 </p>
 
 <p align="center"><sub>Microsoft Power Platform</sub><br>
