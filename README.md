@@ -24,7 +24,7 @@ class SobreMim:
 
 ## Sobre
 
-**Analista de sistemas** e estudante de **Engenharia de Dados** na Infnet. Comecei na logística, passei a analista e fui para a tecnologia, onde hoje trabalho junto do time de dados com **Python**, **SQL** e **Power BI**.
+**Analista de sistemas** e estudante de **Engenharia de Dados** na Infnet. Construí minha carreira de dentro da empresa: entrei na logística, cresci para analista e hoje faço parte da área de tecnologia, trabalhando lado a lado com o time de engenharia de dados. Conheço o negócio na prática, da operação até os dados, e isso me ajuda a criar soluções que fazem sentido para quem vai usar.
 
 Sou apaixonada por tecnologia e estou sempre atrás do próximo conhecimento. Ao mesmo tempo que faço a faculdade, sigo nas formações da Rocketseat e testo ferramentas por conta própria. Quando aprendo algo novo, procuro logo um jeito de aplicar no trabalho.
 
